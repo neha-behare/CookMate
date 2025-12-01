@@ -84,7 +84,7 @@ https://github.com/Kanishka-Wani/CookMate
 
 cd CookMate
 
-### 1️⃣ Backend Setup
+### 2️⃣ Backend Setup
 cd backend
 
 pip install -r requirements.txt
@@ -94,7 +94,7 @@ python manage.py migrate
 python manage.py runserver
 
 
-### 1️⃣ Frontend Setup
+### 3️⃣ Frontend Setup
 
 cd frontend
 
