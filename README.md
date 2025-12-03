@@ -80,7 +80,7 @@ A perfect tool for:
 
 ### 1️⃣ Clone the repository  
 git clone 
-https://github.com/Kanishka-Wani/CookMate
+https://github.com/neha-behare/CookMate
 
 cd CookMate
 
@@ -109,7 +109,7 @@ npm run dev
 
 🔗 GitHub Repository
 
-https://github.com/Kanishka-Wani/CookMate
+https://github.com/neha-behare/CookMate
 
 
 👉 View code, raise issues, contribute, or fork the project!
@@ -117,11 +117,11 @@ https://github.com/Kanishka-Wani/CookMate
 ---
 ### 👨‍💻 Author
 
-Kanishka Dinesh Wani
+Neha Sanjay Behare
 
-GitHub: https://github.com/Kanishka-Wani
+GitHub: https://github.com/neha-behare
 
-Email: kanishkawani52@gmail.com
+Email: nehabehere.2006@gmail.com
 
 ---
 ### 🙏 Acknowledgements
@@ -143,9 +143,10 @@ Email: kanishkawani52@gmail.com
 
 ---
 
-🍳 Crafted with passion by Kanishka Wani
+🍳 Crafted with passion by Neha Behare
 
 </div> ```
+
 
 
 
